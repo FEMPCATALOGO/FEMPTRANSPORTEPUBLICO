@@ -20,16 +20,16 @@ defaults:
       
       
 author:
-  name   : "Bicicleta"
-  avatar : "img/bicicleta.png"
-  bio    : "Vocabulario para la representación de datos sobre el sistema de bicicleta pública."
+  name   : "Transporte público"
+  avatar : "img/transporte.png"
+  bio    : "Vocabulario para la representación de datos de la infraestructura de medios de transporte."
   links:
     - label: "Página web"
       icon: "fas fa-fw fa-link"
-      url: "http://vocab.ciudadesabiertas.es/def/transporte/bicicleta-publica/doc/index-es.html"
+      url: "http://vocab.linkeddata.es/datosabiertos/def/transporte/transporte-publico/index-en.html"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica"
+      url: "https://github.com/opencitydata/transporte-transporte-publico"
 
 
 
